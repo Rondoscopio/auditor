@@ -295,6 +295,51 @@ Inventário de tecnologias, ferramentas, modelos, algoritmos, métodos e padrõe
 - [ ] [Cortex Labs](https://github.com/cortexlabs/cortex) — infraestrutura de inferência e execução de ML; projeto sem manutenção ativa dos autores originais.
 - [ ] [Cortex Docs](https://github.com/cortex-docs/cortex) — geração de documentação de APIs, SDKs e servidores MCP.
 
+## Listas Awesome — inteligência de ameaças e SOC
+
+- [ ] [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) — fontes, plataformas, formatos e padrões de inteligência de ameaças.
+- [ ] [Awesome Threat Intel](https://github.com/cyberzero92/awesome-threat-intel) — fontes de inteligência catalogadas e classificadas.
+- [ ] [Threat Intelligence Awesome Lists](https://github.com/hsheep/threatintelligence-awesome-lists) — agregador de listas de SOC, CERT e inteligência.
+- [ ] [Awesome IOCs](https://github.com/sroberts/awesome-iocs) — indicadores de comprometimento, formatos e ferramentas.
+- [ ] [Awesome SOC Tools](https://github.com/iw-sec/awesome-soc-tools) — ferramentas operacionais e enriquecimento de indicadores.
+
+## Listas Awesome — SIEM, detecção e resposta
+
+- [ ] [Awesome SIEM](https://github.com/cybersader/awesome-siem) — tecnologias de SIEM, observabilidade, streaming e SOAR.
+- [ ] [Awesome SIEM Research](https://github.com/karankessy/awesome-siem-research) — pesquisa sobre correlação, alertas, proveniência e sistemas SIEM.
+- [ ] [Awesome SOC](https://github.com/cyb3rxp/awesome-soc) — ferramentas e processos de operações de segurança.
+- [ ] [Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection) — detecção, regras, algoritmos e datasets.
+- [ ] [Awesome SOC Analyst](https://github.com/LetsDefend/awesome-soc-analyst) — análise operacional, eventos e investigações.
+- [ ] [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) — resposta a incidentes e gestão de evidências.
+- [ ] [Awesome Forensics](https://github.com/cugu/awesome-forensics) — investigação e perícia digital.
+- [ ] [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) — análise e classificação automatizada de arquivos suspeitos.
+- [ ] [Awesome YARA](https://github.com/InQuest/awesome-yara) — regras e ferramentas de identificação de padrões.
+- [ ] [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering) — engenharia de detecção e qualidade de alertas.
+- [ ] [Awesome Detection Rules](https://github.com/muchdogesec/awesome_detection_rules) — catálogo de fontes de regras de detecção.
+- [ ] [Detection Engineering Starter Pack](https://github.com/rfackroyd/detection-engineering-starter-pack) — métodos e ferramentas para construir e avaliar detecções.
+- [ ] [Awesome SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) — orquestração, automação e playbooks.
+- [ ] [Threat Detection Engineering Reference](https://github.com/erickatwork/threat-detection-engineering-reference) — referências e frameworks para engenharia de detecção.
+
+## Listas Awesome — OSINT, jornalismo e fraude em grafos
+
+- [ ] [Awesome OSINT](https://github.com/jivoi/awesome-osint) — fontes e ferramentas de inteligência de fontes abertas.
+- [ ] [Awesome OSINT Repos](https://github.com/osintshifu/awesome-osint-repos) — repositórios OSINT classificados por finalidade.
+- [ ] [Awesome Journalism](https://github.com/brandonhimpfen/awesome-journalism) — jornalismo investigativo, verificação e dados.
+- [ ] [Awesome Ethical OSINT](https://github.com/vvs1off/awesome-osint) — OSINT com foco em ética, legalidade e privacidade.
+- [ ] [Graph Fraud Detection Papers](https://github.com/safe-graph/graph-fraud-detection-papers) — publicações e algoritmos sobre fraudes e anomalias em grafos.
+
+## Plataformas complementares — inteligência, casos e detecção
+
+- [ ] [IntelOwl](https://github.com/intelowlproject/IntelOwl) — orquestração de analisadores e enriquecimento via API.
+- [ ] [OpenCTI](https://github.com/OpenCTI-Platform/opencti) — inteligência estruturada, entidades, relações e proveniência.
+- [ ] [Yeti](https://github.com/yeti-platform/yeti) — correlação de observáveis e inteligência.
+- [ ] [Sigma (regras de detecção)](https://github.com/SigmaHQ/sigma) — padrão aberto para regras declarativas de detecção; distinto de Sigma.js.
+- [ ] [pySigma](https://github.com/SigmaHQ/pySigma) — processamento e conversão de regras Sigma.
+- [ ] [Timesketch](https://github.com/google/timesketch) — análise colaborativa de linhas do tempo de eventos.
+- [ ] [DFIR-IRIS](https://github.com/dfir-iris/iris-web) — gestão de casos e evidências.
+- [ ] [Wazuh](https://github.com/wazuh/wazuh) — coleta, monitoramento, detecção e alertas.
+- [ ] [MISP](https://github.com/MISP/misp) — compartilhamento e correlação de inteligência estruturada.
+
 ---
 
-Itens únicos para avaliação: **255**.
+Itens únicos para avaliação: **288**.

@@ -20,6 +20,10 @@ O Auditor é um projeto de análise de dados e inteligência investigativa. A pr
 
 O projeto pretende combinar consultas, estatística, análise de grafos e métodos de detecção de padrões. Cada resultado deverá preservar referências às fontes, os critérios utilizados e o contexto necessário para sua revisão. Indícios e correlações não devem ser apresentados como provas de fraude.
 
+## Planejamento tecnológico
+
+O [TODO de pesquisa e avaliação tecnológica](TODO.md) reúne ferramentas, modelos, algoritmos e padrões a examinar antes de qualquer decisão de adoção.
+
 ## Acesso e responsabilidade
 
 As análises respeitarão os níveis de acesso dos registros de origem. Relatórios com informações restritas terão acesso controlado. Hipóteses e achados deverão poder ser revisados e corrigidos sem apagar indevidamente o histórico.

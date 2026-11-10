@@ -1,4 +1,4 @@
-![Rondoscópio, Córtex](assets/banner.webp)
+![Rondoscópio, Córtex](cortex-banner.webp)
 
 # Córtex
 

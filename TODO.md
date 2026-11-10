@@ -45,8 +45,6 @@ Inventário de tecnologias, ferramentas, modelos, algoritmos, métodos e padrõe
 - [ ] WARC
 - [ ] WACZ
 - [ ] SHA-256
-- [ ] OpenAleph
-- [ ] FollowTheMoney
 - [ ] yente
 - [ ] rigour
 - [ ] nomenklatura
@@ -615,6 +613,52 @@ Itens repetidos na lista recebida foram consolidados. O OpenCTI já consta do in
 - [ ] [OSINT Book](https://alternativeto.net/software/osint-book/about/)
 
 
+## Projetos de código aberto e respectivos owners no GitHub
+
+Referências para avaliar arquitetura, repositórios, componentes, interfaces, manutenção e práticas de projetos semelhantes ao Rondoscópio. Os links dos owners identificam os responsáveis pelas contas no GitHub, sem presumir vínculo institucional, parceria, autorização de uso ou adequação das licenças. O cadastro não significa adoção de tecnologia. O status dos repositórios deve ser revalidado antes de sua reutilização.
+
+### Open Knowledge Brasil
+
+- [ ] [Owner okfn-brasil](https://github.com/okfn-brasil) (organização). Projetos brasileiros de jornalismo de dados, coleta de diários oficiais e fiscalização de despesas públicas.
+- [ ] [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor). Operação Serenata de Amor. Análise de gastos parlamentares e organização do trabalho investigativo.
+- [ ] [okfn-brasil/rosie](https://github.com/okfn-brasil/rosie). Rosie. Referência histórica de análises automatizadas da Serenata de Amor. Repositório arquivado.
+- [ ] [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario). Querido Diário. Coleta e processamento de diários oficiais.
+- [ ] [okfn-brasil/querido-diario-api](https://github.com/okfn-brasil/querido-diario-api). API do Querido Diário. Consulta e recuperação de informações.
+- [ ] [okfn-brasil/querido-diario-frontend](https://github.com/okfn-brasil/querido-diario-frontend). Interface do Querido Diário. Pesquisa e apresentação pública dos dados.
+
+### Brasil.IO
+
+- [ ] [Owner turicas](https://github.com/turicas) (usuário). Organização e publicação de bases de dados públicos brasileiros. O owner do repositório é um usuário, não uma organização GitHub.
+- [ ] [turicas/brasil.io](https://github.com/turicas/brasil.io). Brasil.IO. Código da plataforma de disponibilização de dados públicos.
+
+### DadosJusBR
+
+- [ ] [Owner dadosjusbr](https://github.com/dadosjusbr) (organização). Coleta, processamento e divulgação de dados de remuneração de integrantes do sistema de Justiça.
+- [ ] [dadosjusbr/api](https://github.com/dadosjusbr/api). API e acesso programático aos dados.
+- [ ] [dadosjusbr/site](https://github.com/dadosjusbr/site). Interface pública de consulta.
+- [ ] [dadosjusbr/coletor-cnj](https://github.com/dadosjusbr/coletor-cnj). Coleta de dados relacionados ao Conselho Nacional de Justiça.
+- [ ] [dadosjusbr/parser-cnj](https://github.com/dadosjusbr/parser-cnj). Transformação e estruturação de dados relacionados ao Conselho Nacional de Justiça.
+
+### MuckRock e DocumentCloud
+
+- [ ] [Owner MuckRock](https://github.com/MuckRock) (organização). Plataforma de acesso a informações e ferramentas jornalísticas de gerenciamento e análise de documentos.
+- [ ] [MuckRock/muckrock](https://github.com/MuckRock/muckrock). Plataforma MuckRock para solicitações de acesso à informação.
+- [ ] [MuckRock/documentcloud](https://github.com/MuckRock/documentcloud). DocumentCloud. Gestão, anotação e publicação de documentos.
+- [ ] [MuckRock/documentcloud-frontend](https://github.com/MuckRock/documentcloud-frontend). Interface do DocumentCloud.
+
+### OpenAleph
+
+- [ ] [Owner openaleph](https://github.com/openaleph) (organização). Software de pesquisa de documentos, entidades e vínculos investigativos.
+- [ ] [openaleph/openaleph](https://github.com/openaleph/openaleph). OpenAleph. Plataforma aberta de investigação documental e exploração de relações.
+
+### OpenSanctions
+
+- [ ] [Owner opensanctions](https://github.com/opensanctions) (organização). Modelagem de pessoas, empresas, eventos e relações para cruzamento de dados e investigações.
+- [ ] [opensanctions/followthemoney](https://github.com/opensanctions/followthemoney). FollowTheMoney. Modelo de entidades e relacionamentos para dados investigativos.
+
+A análise de cada referência deve registrar licença, situação de manutenção, segurança, arquitetura, qualidade, dependências e limites de eventual reutilização. A indicação de um owner não significa que todos os seus repositórios foram inventariados.
+
+
 ---
 
-Itens únicos para avaliação: **492**.
+Itens únicos para avaliação: **511**.

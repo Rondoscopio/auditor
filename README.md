@@ -14,7 +14,7 @@
 
 Projeto do **Rondoscópio** no repositório **Rondoscopio/cortex**.
 
-O Córtex é o motor de inteligência e análise de dados do Rondoscópio, voltado à investigação de informações de interesse público. A proposta é examinar evidências reunidas pelo Observador, cruzar informações sobre pessoas, empresas, documentos, contratos e acontecimentos, identificar anomalias e possíveis conflitos de interesses e organizar os achados em relatórios verificáveis.
+O Córtex é o motor de inteligência e análise de dados do Rondoscópio, voltado à investigação de informações de interesse público. A proposta é examinar evidências reunidas pelo Amnésia, cruzar informações sobre pessoas, empresas, documentos, contratos e acontecimentos, identificar anomalias e possíveis conflitos de interesses e organizar os achados em relatórios verificáveis.
 
 ## Análise e resultados
 

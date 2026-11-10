@@ -14,11 +14,17 @@
 
 Projeto do **Rondoscópio** no repositório **Rondoscopio/cortex**.
 
-O Córtex é o motor de inteligência e análise de dados do Rondoscópio, voltado à investigação de informações de interesse público. A proposta é examinar evidências reunidas pelo Amnésia, cruzar informações sobre pessoas, empresas, documentos, contratos e acontecimentos, identificar anomalias e possíveis conflitos de interesses e organizar os achados em relatórios verificáveis.
+O Córtex é o motor de inteligência e análise de dados do Rondoscópio, voltado à investigação de informações de interesse público. A proposta é examinar evidências reunidas pela Amnésia, cruzar informações sobre pessoas, empresas, documentos, contratos e acontecimentos, identificar anomalias e possíveis conflitos de interesses e organizar os achados em relatórios verificáveis.
 
 ## Análise e resultados
 
 O projeto pretende combinar consultas, estatística, análise de grafos e métodos de detecção de padrões. Cada resultado deverá preservar referências às fontes, os critérios utilizados e o contexto necessário para sua revisão. Indícios e correlações não devem ser apresentados como provas de fraude.
+
+## Contexto e relevância retrospectiva
+
+A análise deverá considerar sequências de acontecimentos, mudanças de posicionamento, ironia, circunstâncias e explicações alternativas. Registros antigos podem adquirir relevância posteriormente, inclusive nomes e logotipos presentes em fotografias, mas proximidade, coincidência temporal ou vínculos identificados não são provas automáticas de irregularidade. As hipóteses e conclusões devem permanecer distinguíveis dos dados originais e admitir revisão.
+
+As diretrizes estão registradas em [Análise temporal, contexto e interpretação responsável](docs/analise-temporal-e-interpretacao.md). As regras de captura e proveniência da [Amnésia](https://github.com/Rondoscopio/amnesia/blob/main/docs/captura-proveniencia-e-preservacao.md) são complementares.
 
 ## Planejamento tecnológico
 

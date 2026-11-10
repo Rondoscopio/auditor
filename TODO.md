@@ -284,6 +284,17 @@ Inventário de tecnologias, ferramentas, modelos, algoritmos, métodos e padrõe
 - [ ] GlobaLeaks
 - [ ] SecureDrop
 
+## Plataformas de investigação, inteligência e infraestrutura complementar
+
+- [ ] [TheHive Cortex](https://github.com/TheHive-Project/Cortex) — motor de análise automatizada de observáveis e evidências digitais.
+- [ ] [Cortex Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers) — arquitetura extensível de analisadores e ações automatizadas.
+- [ ] [TheHive Project (organização)](https://github.com/TheHive-Project) — ecossistema de gestão de casos, resposta a incidentes e inteligência.
+- [ ] [S1EM](https://github.com/V1D1AN/S1EM) — integração de SIEM, correlação de eventos, alertas e resposta.
+- [ ] [TheHive Awesome](https://github.com/TheHive-Project/awesome) — catálogo de integrações e recursos do ecossistema.
+- [ ] [mthc](https://github.com/pe3zx/mthc) — implantação integrada de MISP, TheHive e Cortex.
+- [ ] [Cortex Labs](https://github.com/cortexlabs/cortex) — infraestrutura de inferência e execução de ML; projeto sem manutenção ativa dos autores originais.
+- [ ] [Cortex Docs](https://github.com/cortex-docs/cortex) — geração de documentação de APIs, SDKs e servidores MCP.
+
 ---
 
-Itens únicos para avaliação: **247**.
+Itens únicos para avaliação: **255**.

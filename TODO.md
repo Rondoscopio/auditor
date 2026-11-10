@@ -331,7 +331,7 @@ Inventário de tecnologias, ferramentas, modelos, algoritmos, métodos e padrõe
 ## Plataformas complementares — inteligência, casos e detecção
 
 - [ ] [IntelOwl](https://github.com/intelowlproject/IntelOwl) — orquestração de analisadores e enriquecimento via API.
-- [ ] [OpenCTI](https://github.com/OpenCTI-Platform/opencti) — inteligência estruturada, entidades, relações e proveniência.
+- [ ] [OpenCTI](https://github.com/OpenCTI-Platform/opencti) — inteligência estruturada, entidades, relações e proveniência. [Ficha no AlternativeTo](https://alternativeto.net/software/opencti/about/).
 - [ ] [Yeti](https://github.com/yeti-platform/yeti) — correlação de observáveis e inteligência.
 - [ ] [Sigma (regras de detecção)](https://github.com/SigmaHQ/sigma) — padrão aberto para regras declarativas de detecção; distinto de Sigma.js.
 - [ ] [pySigma](https://github.com/SigmaHQ/pySigma) — processamento e conversão de regras Sigma.
@@ -513,6 +513,108 @@ Inventário de tecnologias, ferramentas, modelos, algoritmos, métodos e padrõe
 - [ ] Separação de indício, hipótese e prova
 - [ ] Revisão humana antes de conclusões ou publicações sensíveis
 
+## Possíveis inspirações
+
+Referências indicadas para pesquisa comparativa de produtos, interfaces, metodologias e funcionalidades que possam inspirar o Córtex. Os endereços abaixo são páginas de descoberta no AlternativeTo, não documentação oficial de cada ferramenta. O cadastro não comprova disponibilidade atual, licença, adequação jurídica, segurança, manutenção ou viabilidade de adoção.
+
+Itens repetidos na lista recebida foram consolidados. O OpenCTI já consta do inventário técnico e sua página no AlternativeTo foi adicionada ao item existente. As demais referências continuam pendentes de avaliação. Algumas têm escopo apenas adjacente ao Rondoscópio.
+
+### Visualização, BI, exploração de dados e interfaces
+
+- [ ] [Tableau](https://alternativeto.net/software/tableau/about/)
+- [ ] [Gephi](https://alternativeto.net/software/gephi/about/)
+- [ ] [Linkurious](https://alternativeto.net/software/linkurious/about/)
+- [ ] [Marple Insight](https://alternativeto.net/software/marple/about/)
+- [ ] [Tom Sawyer Software](https://alternativeto.net/software/tom-sawyer-software/about/)
+- [ ] [HooMap](https://alternativeto.net/software/hoomap/about/)
+- [ ] [Looker](https://alternativeto.net/software/looker/about/)
+- [ ] [Tercept Unified Analytics](https://alternativeto.net/software/tercept-unified-analytics/about/)
+- [ ] [AnswerMiner](https://alternativeto.net/software/answerminer/about/)
+- [ ] [AppSheet](https://alternativeto.net/software/appsheet/about/)
+- [ ] [Oracle APEX](https://alternativeto.net/software/oracle-apex/about/)
+- [ ] [Databricks](https://alternativeto.net/software/databricks/about/)
+- [ ] [bipp Analytics](https://alternativeto.net/software/bipp-analytics/about/)
+
+### Investigação, grafos, vínculos e gestão de casos
+
+- [ ] [IBM i2 Analyst's Notebook](https://alternativeto.net/software/ibm-i2-analyst-s-notebook/about/)
+- [ ] [DataWalk](https://alternativeto.net/software/datawalk/about/)
+- [ ] [PRISM OSINT Platform](https://alternativeto.net/software/prism--osint-platform/about/)
+- [ ] [LinkScope Client](https://alternativeto.net/software/linkscope-client/about/)
+- [ ] [SearchIn](https://alternativeto.net/software/searchin/about/)
+- [ ] [SIERRA](https://alternativeto.net/software/sierra/about/)
+- [ ] [SocialLinks Crimewall](https://alternativeto.net/software/sociallinks-crimewall/about/)
+- [ ] [Siren.io](https://alternativeto.net/software/siren-io/about/)
+- [ ] [Lampyre](https://alternativeto.net/software/lampyre/about/)
+- [ ] [Sentinel Visualizer](https://alternativeto.net/software/sentinel-visualizer/about/)
+- [ ] [Visallo](https://alternativeto.net/software/visallo/about/)
+- [ ] [Hume](https://alternativeto.net/software/hume/about/)
+- [ ] [Case Closed Software](https://alternativeto.net/software/case-closed-software/about/) [Página de alternativas](https://alternativeto.net/software/case-closed-software/).
+- [ ] [Xanalys Link Explorer](https://alternativeto.net/software/xanalys-link-explorer/about/)
+- [ ] [Crime Tech Solutions Link Analysis](https://alternativeto.net/software/crime-tech-solutions-link-analysis/about/)
+- [ ] [Orion Magic](https://alternativeto.net/software/orion-magic/about/)
+- [ ] [ClueMaker](https://alternativeto.net/software/cluemaker/about/)
+- [ ] [Agens Browser](https://alternativeto.net/software/agens-browser/about/)
+- [ ] [Palantir Foundry](https://alternativeto.net/software/palantir-foundry/about/)
+- [ ] [StellaSpark Nexus](https://alternativeto.net/software/stellaspark-nexus/about/)
+- [ ] [d.AP](https://alternativeto.net/software/d-ap-by-digetiers/about/)
+- [ ] [KGNN](https://alternativeto.net/software/kgnn/about/)
+- [ ] [Timbr](https://alternativeto.net/software/timbr/about/)
+- [ ] [Crime Tech Solutions IntelNexus](https://alternativeto.net/software/crime-tech-solutions-intelnexus/about/)
+- [ ] [Maltego](https://alternativeto.net/software/maltego/about/)
+
+### Ferramentas de OSINT e pesquisa de perfis, contas e sinais públicos
+
+- [ ] [Pipl](https://alternativeto.net/software/pipl/about/)
+- [ ] [PhoneInfoga](https://alternativeto.net/software/phoneinfoga/about/)
+- [ ] [Blackbird OSINT](https://alternativeto.net/software/blackbird-osint/about/)
+- [ ] [Sherlock](https://alternativeto.net/software/sherlock/about/)
+- [ ] [Holehe](https://alternativeto.net/software/holehe/about/)
+- [ ] [Behind the Email](https://alternativeto.net/software/behind-the-email/about/)
+- [ ] [WhatsMyName](https://alternativeto.net/software/whatsmyname/about/)
+- [ ] [Ultra IP OSINT](https://alternativeto.net/software/ultra-ip-osint/about/)
+- [ ] [Datasploit](https://alternativeto.net/software/datasploit/about/)
+- [ ] [Checkmate.bio](https://alternativeto.net/software/checkmate-bio/about/)
+- [ ] [Osintgram](https://alternativeto.net/software/osintgram/about/)
+- [ ] [Snoop OSINT](https://alternativeto.net/software/snoop-osint/about/)
+- [ ] [Tookie-OSINT](https://alternativeto.net/software/tookie-osint/about/)
+- [ ] [UserScope](https://alternativeto.net/software/userscope/about/)
+- [ ] [SpiderFoot](https://alternativeto.net/software/spiderfoot/about/)
+- [ ] [Prying Deep](https://alternativeto.net/software/prying-deep/about/)
+- [ ] [sn0int](https://alternativeto.net/software/sn0int/about/)
+
+### Inteligência de ameaças, análise de risco e monitoramento
+
+- [OpenCTI](https://alternativeto.net/software/opencti/about/): já consta como item de avaliação na seção de plataformas de investigação.
+- [ ] [Threat Landscape](https://alternativeto.net/software/threat-landscape/about/)
+- [ ] [Defend Network](https://alternativeto.net/software/defend-network/about/)
+- [ ] [ThreatCluster](https://alternativeto.net/software/threatcluster/about/)
+- [ ] [Shield AI Technologies](https://alternativeto.net/software/shield-ai-technologies/about/)
+
+### Painéis geopolíticos, eventos e consciência situacional
+
+- [ ] [Osiris](https://alternativeto.net/software/osiris/about/)
+- [ ] [World Monitor](https://alternativeto.net/software/worldmonitor/about/)
+- [ ] [World Monitor GDELT](https://alternativeto.net/software/world-monitor-gdelt/about/)
+- [ ] [World Wide View](https://alternativeto.net/software/world-wide-view/about/)
+- [ ] [God's Eye View](https://alternativeto.net/software/gods-eye-view/about/) [Página de alternativas](https://alternativeto.net/software/gods-eye-view/).
+- [ ] [Mappit](https://alternativeto.net/software/mappit/about/)
+- [ ] [War Monitor](https://alternativeto.net/software/war-monitor/about/)
+- [ ] [World News Pulse](https://alternativeto.net/software/world-news-pulse/about/)
+
+### Referências complementares com pertinência a avaliar
+
+- [ ] [Credit Karma](https://alternativeto.net/software/credit-karma/about/)
+- [ ] [Credit Repair Cloud](https://alternativeto.net/software/credit-repair-cloud/about/)
+- [ ] [ikolinks](https://alternativeto.net/software/ikolinks/about/)
+- [ ] [Premonition Analytics](https://alternativeto.net/software/premonition-analytics/about/)
+
+### Catálogos e recursos de descoberta
+
+- [ ] [Awesome Hacker Search Engines](https://alternativeto.net/software/awesome-hacker-search-engines/about/)
+- [ ] [OSINT Book](https://alternativeto.net/software/osint-book/about/)
+
+
 ---
 
-Itens únicos para avaliação: **419**.
+Itens únicos para avaliação: **492**.

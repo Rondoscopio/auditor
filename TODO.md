@@ -659,6 +659,81 @@ Referências para avaliar arquitetura, repositórios, componentes, interfaces, m
 A análise de cada referência deve registrar licença, situação de manutenção, segurança, arquitetura, qualidade, dependências e limites de eventual reutilização. A indicação de um owner não significa que todos os seus repositórios foram inventariados.
 
 
+## Triagem do tópico investigative-journalism no GitHub
+
+**Origem:** [tópico investigative-journalism](https://github.com/topics/investigative-journalism). **Consulta:** 2026-11-10.
+
+Foi feita uma triagem por presença de estrelas, finalidade, procedência do owner, histórico de publicação, forks, estrutura dos arquivos e utilidade para o Rondoscópio. A busca retornou 94 repositórios com pelo menos uma estrela e 52 com cinco ou mais. Dos candidatos examinados, 37 referências foram selecionadas para estudo, incluindo quatro materiais didáticos e alguns casos históricos, não para execução imediata.
+
+As estrelas e forks registrados abaixo são fotografias aproximadas do momento da consulta, não certificações de autenticidade. O acesso ao README e à estrutura pública permite apenas descartar alguns projetos superficiais. **Não houve execução de código, auditoria integral de dependências, varredura de malware ou exame das contas que deram estrelas. Nenhum software fica aprovado para instalação ou produção por constar nesta lista.**
+
+### Plataformas e componentes para documentos, busca e grafos
+
+- [ ] [alephdata/aleph](https://github.com/alephdata/aleph) | 2504 estrelas, 370 forks. Legado do Aleph. Busca investigativa de documentos e entidades. Referência de arquitetura, não adoção direta.
+- [openaleph/openaleph](https://github.com/openaleph/openaleph) | 153 estrelas, 24 forks. Sucessor comunitário do Aleph. Já cadastrado na seção de owners, sem nova caixa para evitar duplicação.
+- [ ] [ICIJ/datashare](https://github.com/ICIJ/datashare) | 779 estrelas, 73 forks. Busca documental, extração de texto e reconhecimento de entidades. Referência institucional do ICIJ.
+- [ ] [ICIJ/datashare-python](https://github.com/ICIJ/datashare-python) | 7 estrelas, 0 forks. Componentes Python da infraestrutura documental do ICIJ.
+- [ ] [ICIJ/datashare-extension-neo4j](https://github.com/ICIJ/datashare-extension-neo4j) | 16 estrelas, 2 forks. Integração de projetos Datashare com grafos Neo4j.
+- [ ] [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) | 1232 estrelas, 200 forks. Busca semântica, OCR, entidades e navegação por acervos. Revisar ritmo atual de manutenção.
+- [ ] [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) | 1116 estrelas, 41 forks. Organização contextual de informações e grafos de conhecimento.
+- [ ] [mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) | 504 estrelas, 50 forks. Plataforma local de análise documental, hipóteses, grafos e IA. Experimental, requer verificação de arquitetura e dependências.
+- [ ] [ANCIR/grano](https://github.com/ANCIR/grano) | 196 estrelas, 27 forks. Grafos de influência político-econômica. Projeto histórico, sem manutenção recente.
+- [ ] [openstate/jodal](https://github.com/openstate/jodal) | 11 estrelas, 1 forks. Plataforma Bron, anteriormente Jodal, de pesquisa em documentos governamentais.
+- [ ] [msramalho/desarquivo](https://github.com/msramalho/desarquivo) | 33 estrelas, 2 forks. Exploração de arquivos web em grafo. Referência histórica, atualização necessária.
+- [ ] [neo4j-graph-examples/icij-offshoreleaks](https://github.com/neo4j-graph-examples/icij-offshoreleaks) | 11 estrelas, 4 forks. Exemplo de carga, consulta e visualização de redes societárias de Offshore Leaks.
+
+### Verificação, OSINT, sinais públicos e coleta
+
+- [ ] [atlosdotorg/atlos](https://github.com/atlosdotorg/atlos) | 97 estrelas, 12 forks. Ambiente colaborativo para verificação visual e análise de fontes abertas.
+- [ ] [associatedpress/verify-dkim](https://github.com/associatedpress/verify-dkim) | 96 estrelas, 6 forks. Verificação de assinaturas DKIM de mensagens em arquivos mbox. Ferramenta antiga e especializada.
+- [ ] [soxoj/kronikier](https://github.com/soxoj/kronikier) | 65 estrelas, 10 forks. Extração de contatos históricos a partir de capturas do Internet Archive.
+- [ ] [soxoj/kronikier-web](https://github.com/soxoj/kronikier-web) | 12 estrelas, 0 forks. Interface web do Kronikier para investigação de registros históricos.
+- [ ] [giovabal/pulpit](https://github.com/giovabal/pulpit) | 9 estrelas, 0 forks. Coleta e análise de redes de encaminhamentos e referências entre canais do Telegram. Experimental.
+- [ ] [ARAI-Telegram/teledash-frontend](https://github.com/ARAI-Telegram/teledash-frontend) | 7 estrelas, 0 forks. Interface do Teledash para monitoramento de canais e conteúdos do Telegram.
+- [ ] [ARAI-Telegram/teledash-backend](https://github.com/ARAI-Telegram/teledash-backend) | 6 estrelas, 0 forks. API e coleta do Teledash.
+- [ ] [ARAI-Telegram/teledash-backend-processing](https://github.com/ARAI-Telegram/teledash-backend-processing) | 5 estrelas, 0 forks. Processamento opcional com IA de dados do Teledash.
+
+### Gestão de investigações e análise assistida
+
+- [ ] [frangelbarrera/Abster-Intelligence](https://github.com/frangelbarrera/Abster-Intelligence) | 24 estrelas, 3 forks. Espaço de trabalho local para entidades, grafos, cronologias e relatórios. Experimental.
+- [ ] [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) | 6 estrelas, 0 forks. Gestão investigativa com evidências e revisão humana. Projeto pre-1.0, não preparado para produção hostil.
+- [ ] [dsivov/investigator](https://github.com/dsivov/investigator) | 5 estrelas, 1 forks. Cruzamento de notícias, extração de eventos e entidades e grafo com citações. Experimental.
+- [ ] [pattrn-project/pattrn](https://github.com/pattrn-project/pattrn) | 85 estrelas, 18 forks. Mapeamento participativo de fatos e conflitos. Referência histórica com última atividade antiga.
+
+### Estudos de caso, bases investigativas e protótipos
+
+- [ ] [JaimeObregon/ladonacion.es](https://github.com/JaimeObregon/ladonacion.es) | 195 estrelas, 17 forks. Código e visualização de investigação sobre transferências financeiras envolvendo a monarquia espanhola.
+- [ ] [jexp/fincen](https://github.com/jexp/fincen) | 44 estrelas, 12 forks. Exemplo de importação e visualização dos FinCEN Files em Neo4j.
+- [ ] [the-markup/investigation-isp](https://github.com/the-markup/investigation-isp) | 43 estrelas, 8 forks. Dados e notebooks de investigação sobre desigualdade em ofertas de internet nos EUA.
+- [ ] [the-markup/investigation-prediction-bias](https://github.com/the-markup/investigation-prediction-bias) | 29 estrelas, 4 forks. Código e documentação de investigação sobre vieses em policiamento preditivo.
+- [ ] [ANCIR/mozambique](https://github.com/ANCIR/mozambique) | 25 estrelas, 3 forks. Estudo histórico de participações societárias e concessões de mineração.
+- [ ] [sfchronicle/police_pursuits](https://github.com/sfchronicle/police_pursuits) | 14 estrelas, 0 forks. Dados de investigação jornalística sobre perseguições policiais.
+- [ ] [thometnanni/vantage](https://github.com/thometnanni/vantage) | 15 estrelas, 1 forks. Verificação espacial com reconstrução 3D. Desenvolvimento migrado para v-a-n-t-a-g-e/vantage.
+- [ ] [ireapps/ire-archive-backend](https://github.com/ireapps/ire-archive-backend) | 7 estrelas, 0 forks. Backend público de arquivo da organização Investigative Reporters and Editors.
+- [ ] [sytpp/rtbf](https://github.com/sytpp/rtbf) | 9 estrelas, 3 forks. Site, código e dados de investigação sobre o direito ao esquecimento. Referência histórica.
+
+### Guias, métodos e materiais de pesquisa, não ferramentas prontas
+
+- [ ] [ivbeg/awesome-forensicstools](https://github.com/ivbeg/awesome-forensicstools) | 563 estrelas, 92 forks. Curadoria histórica de ferramentas forenses, sem produto executável próprio.
+- [ ] [soxoj/files-search-guide](https://github.com/soxoj/files-search-guide) | 63 estrelas, 4 forks. Guia de busca em documentos, bases e arquivos, sem produto executável próprio.
+- [ ] [shallvhack/awesome-osint-toolkit](https://github.com/shallvhack/awesome-osint-toolkit) | 17 estrelas, 7 forks. Curadoria da comunidade OSINT JOURNO, sem produto executável próprio.
+- [ ] [paulbradshaw/MED7369-Specialist-Investigative-Journalism](https://github.com/paulbradshaw/MED7369-Specialist-Investigative-Journalism) | 29 estrelas, 19 forks. Material didático com exemplos de jornalismo de dados, OSINT, Python e análise de redes.
+
+### Referências não promovidas à seleção
+
+Os exemplos abaixo foram examinados superficialmente, mas não passaram pelo filtro de reutilização ou utilidade técnica nesta rodada. A exclusão **não é acusação de malware nem de compra de estrelas**.
+
+- [CScorza/OSINTInvestigation](https://github.com/CScorza/OSINTInvestigation): apesar das estrelas, o repositório contém basicamente um README e um arquivo de buscas, com pouco código reutilizável.
+- [democ-de/teledash](https://github.com/democ-de/teledash): essencialmente documentação e imagens. Os componentes de código de Teledash foram registrados acima.
+- [soxoj/email-archive-analysis](https://github.com/soxoj/email-archive-analysis): apenas README na raiz, sem implementação identificada na inspeção.
+- [Condor2026/diabolic_france_v3](https://github.com/Condor2026/diabolic_france_v3): afirmações de qualidade e build exibidas por badges estáticos não constituem evidência verificável.
+- [sophymarine/openregistry](https://github.com/sophymarine/openregistry): integração pública com serviço de dados que também anuncia modalidades pagas. Avaliar dependências externas e reprodutibilidade antes de considerar.
+- [povvo/sleuth](https://github.com/povvo/sleuth): conjunto de fluxos e agentes que precisa de evidências adicionais de funcionamento e avaliação independente.
+- [theelderemo/Epstein-files](https://github.com/theelderemo/Epstein-files): proveniência, direitos e integridade do conjunto de documentos não foram validados nesta rodada.
+
+**Próxima etapa da avaliação:** conferir releases, contribuições, histórico de issues, licenças e manutenção, executar análise estática e varredura de dependências em ambiente isolado, revisar pontos de entrada e acesso à rede e somente depois considerar experimentos com software de terceiros.
+
+
 ---
 
-Itens únicos para avaliação: **511**.
+Itens únicos para avaliação: **547**.
